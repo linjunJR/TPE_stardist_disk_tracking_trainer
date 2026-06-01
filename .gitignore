@@ -1,0 +1,5 @@
+stardist_data/
+stardist_models/
+*.h5
+*.tif
+*.png
